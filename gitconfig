@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = elizabethkok_97@hotmail.com
+	name = Elizabeth Kok
